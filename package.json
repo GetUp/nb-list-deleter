@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "bottleneck": "^2.19.5",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
